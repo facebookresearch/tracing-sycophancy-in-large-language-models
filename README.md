@@ -24,3 +24,8 @@ serving clients, credentials, generated responses, or experiment infrastructure.
 The prompt is model-provider agnostic.
 
 
+
+## License
+
+tracing-sycophancy-in-large-language-models is MIT licensed, as found in the
+LICENSE file.
