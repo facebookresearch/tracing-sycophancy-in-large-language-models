@@ -93,6 +93,12 @@ sign, which is why they serve as a control.
 
 Himaghna Bhattacharjee, Yasha Sheynin, and Shivam Singhal contributed equally.
 
+## Contact
+
+Correspondence: Himaghna Bhattacharjee <himaghna@meta.com>
+
+For questions about this repository, please open a GitHub issue.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute, and
